@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sarah Percival
 - 👀 I’m interested in applied and theoretical problems in computational topology.
-- 🌱 I’m currently learning about the Euler Characteristic Transform and plant biology, as well as trying to improve my Python, Javascript, and other coding skills.
+- 🌱 I’m currently learning about the Euler Characteristic Transform and plant biology, as well as working on improving my Python, Javascript, and other coding skills.
 - 💞️ I am always interested in new collaborations.
 - 📫 You can email me at perciva9 at msu dot edu.
 
