@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sarah Percival
 - 👀 I’m interested in applied and theoretical problems in computational topology.
 - 💞️ I am always interested in new collaborations.
-- 📫 You can email me at perciva9 at msu dot edu.
+- 📫 You can email me at spercival at unm dot edu.
 
 <!---
 sperciva/sperciva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
