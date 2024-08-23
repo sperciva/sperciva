@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Sarah Percival
 - 👀 I’m interested in applied and theoretical problems in computational topology.
 - 💞️ I am always interested in new collaborations.
+- My website is [here](https://www.math.unm.edu/~sarah/)
 - 📫 You can email me at spercival at unm dot edu.
 
 <!---
